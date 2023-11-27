@@ -1,4 +1,3 @@
-import ImageCard from './ImageCard.jsx'
 import { Helmet } from "react-helmet";
 
 function About() {
