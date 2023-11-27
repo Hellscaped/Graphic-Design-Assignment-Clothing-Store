@@ -1,0 +1,26 @@
+body {
+  background-color: #3b3a3a;
+}
+.logo {
+  width: 250px;
+  height: 100px;
+  margin: auto;
+}
+
+.hr {
+  width: 100vw;
+  height:0.5vh;
+  background-color: #2b2a2a;
+}
+
+.top {
+  /* top of the page */
+  position: fixed;
+  width: 100vw;
+  height: 10vh;
+  top: 0px;
+  background-color: #2b2a2a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
